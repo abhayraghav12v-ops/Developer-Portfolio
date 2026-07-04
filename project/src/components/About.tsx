@@ -152,7 +152,7 @@ export default function About() {
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="w-1.5 h-1.5 bg-primary-500 rounded-full" />
-                    Basic backend development knowledge
+                    Hands-on experience with backend development
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="w-1.5 h-1.5 bg-primary-500 rounded-full" />
