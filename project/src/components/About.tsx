@@ -132,7 +132,7 @@ export default function About() {
                 </p>
                 <p>
                   My journey in software development has led me to work with modern
-                  web technologies including (MongoDB, Express.js, React.js, Node.js). I enjoy crafting                         clean, efficient code and creating intuitive user experiences.
+                  web technologies including (MongoDB, Express.js, React.js, Node.js). I enjoy crafting clean, efficient code and creating intuitive user experiences.
                 </p>
                 <p>
                   Beyond web development, I'm actively sharpening my problem-solving
