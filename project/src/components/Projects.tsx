@@ -50,6 +50,27 @@ const projects: Project[] = [
     github: 'https://github.com/ashutos-h-tiwari/Chatterly',
     featured: true,
   },
+{
+  title: "AI Resume Checker",
+  description:
+    "An AI-powered resume analysis platform that evaluates resumes for ATS compatibility, provides an ATS score, identifies weaknesses, and generates personalized improvement suggestions using the Google Gemini API. Built with the MERN stack and deployed on Vercel and Render.",
+  image:
+    "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=800",
+  technologies: [
+    "React.js",
+    "Vite",
+    "Tailwind CSS",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Google Gemini API",
+    "JWT",
+    "Multer"
+  ],
+  github: "https://github.com/abhayraghav12v-ops/Ai-Resume-Checker",
+  featured: true,
+},
+
 ];
 
 export default function Projects() {
